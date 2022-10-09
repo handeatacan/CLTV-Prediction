@@ -43,7 +43,7 @@
 # customer_value_total_ever_offline : Müşterinin offline alışverişlerinde ödediği toplam ücret
 # customer_value_total_ever_online : Müşterinin online alışverişlerinde ödediği toplam ücret
 # interested_in_categories_12 : Müşterinin son 12 ayda alışveriş yaptığı kategorilerin listesi
-# store_type : 3 farklı companyi ifade eder. A company'sinden alışveriş yapan kişi B'dende yaptı ise A,B şeklinde yazılmıştır.
+# store_type : 3 farklı companyi ifade eder. A company'sinden alışveriş yapan kişi B'den de yaptı ise A,B şeklinde yazılmıştır.
 
 ###############################################################
 # GÖREVLER
@@ -53,7 +53,7 @@
 # 2. Aykırı değerleri baskılamak için gerekli olan outlier_thresholds ve replace_with_thresholds fonksiyonlarını tanımlayınız.
 # Not: cltv hesaplanırken frequency değerleri integer olması gerekmektedir.Bu nedenle alt ve üst limitlerini round() ile yuvarlayınız.
 # 3. "order_num_total_ever_online","order_num_total_ever_offline","customer_value_total_ever_offline","customer_value_total_ever_online" değişkenlerinin
-# aykırı değerleri varsa baskılayanız.
+# aykırı değerleri varsa baskılayınız.
 # 4. Omnichannel müşterilerin hem online'dan hemde offline platformlardan alışveriş yaptığını ifade etmektedir. Herbir müşterinin toplam
 # alışveriş sayısı ve harcaması için yeni değişkenler oluşturun.
 # 5. Değişken tiplerini inceleyiniz. Tarih ifade eden değişkenlerin tipini date'e çeviriniz.
