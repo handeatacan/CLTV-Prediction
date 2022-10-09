@@ -35,4 +35,4 @@ customer_value_total_ever_online : Müşterinin online alışverişlerinde öded
 
 interested_in_categories_12 : Müşterinin son 12 ayda alışveriş yaptığı kategorilerin listesi
 
-store_type : 3 farklı companyi ifade eder. A company'sinden alışveriş yapan kişi B'dende yaptı ise A,B şeklinde yazılmıştır.
+store_type : 3 farklı companyi ifade eder. A company'sinden alışveriş yapan kişi B'den de yaptı ise A,B şeklinde yazılmıştır.
